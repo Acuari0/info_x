@@ -7,7 +7,9 @@ environment:
 dependencies: 
   timezone: ^0.9.1
   dartxx: 
-    path: /Users/ericm/aesthetika/checkout/ericmartineau/dartxx
+    git:
+      url: https://github.com/Acuari0/dartxx.git
+      ref: master
   flutter: 
     sdk: flutter
 dev_dependencies: 
