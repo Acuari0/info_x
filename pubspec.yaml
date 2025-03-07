@@ -5,7 +5,7 @@ description: A new Flutter package project.
 environment: 
   sdk: '>=2.17.0 <3.0.0'
 dependencies: 
-  timezone: ^0.9.1
+  timezone: ^0.8.0
   dartxx: 
     git:
       url: https://github.com/Acuari0/dartxx.git
